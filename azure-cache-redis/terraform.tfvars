@@ -1,5 +1,5 @@
 resource_group_name = "rg-redis-example"
-location            = "East US"
+location            = "centralUS"
 redis_name          = "myredisappalgorims"
 redis_capacity      = 1
 redis_family        = "C"
